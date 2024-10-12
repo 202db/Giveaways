@@ -1,0 +1,6 @@
+# Voici les prérequis pout que le bot fonctionnent parfaitement:
+
+discord-giveaways 
+discord.js
+ms
+parsec

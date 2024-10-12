@@ -1,0 +1,7 @@
+{
+  "token": "TokenDuBot", 
+  "prefix": "/",
+  "everyoneMention": true,
+  "copyright": "Bot Giveaways Par TonPseudo",
+  "hostedBy": true
+}
